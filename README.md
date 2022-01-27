@@ -1,1 +1,2 @@
-# DiegoRojas.github.io
+# About 
+Soy Diego Sánchez Rojas
